@@ -56,3 +56,7 @@ retranslator.start();
   "time": "Thu Mar 05 2020 13:23:29 GMT+0000 (Coordinated Universal Time)" 
 }
 ```
+### Build and run container
+* ```make build``` - just build
+* ```make run``` - build and run
+* ```make push``` - build and push
